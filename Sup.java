@@ -13,6 +13,6 @@ public class Sup extends Parent {
         System.out.println("i'm child");
     }
     public static void main(String[] args) {
-        //Child obj = new Child();
+        Sup obj = new Sup();
     }
 }
